@@ -1,0 +1,1 @@
+This is the example of scheduling a task intervally using spring-boot
